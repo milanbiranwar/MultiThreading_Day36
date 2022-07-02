@@ -1,0 +1,15 @@
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\bin\Debug\net6.0\MultiThreading_Day36.exe
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\bin\Debug\net6.0\MultiThreading_Day36.deps.json
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\bin\Debug\net6.0\MultiThreading_Day36.runtimeconfig.json
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\bin\Debug\net6.0\MultiThreading_Day36.dll
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\bin\Debug\net6.0\MultiThreading_Day36.pdb
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\MultiThreading_Day36.csproj.AssemblyReference.cache
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\MultiThreading_Day36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\MultiThreading_Day36.AssemblyInfoInputs.cache
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\MultiThreading_Day36.AssemblyInfo.cs
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\MultiThreading_Day36.csproj.CoreCompileInputs.cache
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\MultiThreading_Day36.dll
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\refint\MultiThreading_Day36.dll
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\MultiThreading_Day36.pdb
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\MultiThreading_Day36.genruntimeconfig.cache
+D:\Repositories\MultiThreading_Day36\MultiThreading_Day36\obj\Debug\net6.0\ref\MultiThreading_Day36.dll
